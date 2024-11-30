@@ -54,7 +54,7 @@ Cada proyecto incluye:
 - API: https://github.com/GersonEvangelista/ProyectoPROMCOSERWeb.git
 - FRONT: https://github.com/GersonEvangelista/ProyectoPROMCOSERWeb_Frontend.git
 - **🖼️ Imagen representativa:**  
-
+  ![login_G3](login_Grupo3.jpeg)
 ---
 
 ### **📌 [2. GRUPO 1]**
