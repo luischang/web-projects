@@ -58,31 +58,34 @@ Cada proyecto incluye:
 
 ---
 
-### **📌 [2. Nombre del Proyecto]**
-- **👥 Autor(es):** [Nombre(s) del/los estudiante(s)]
-- **📅 Ciclo:** [Ejemplo: 2024-01, 2024-02, etc.]
-- **📖 Descripción:** [Breve descripción del proyecto, máximo 2-3 líneas.]
+### **📌 [2. GRUPO 1]**
+- **👥 Autor(es):**
+- Cardenas Gomez Jose
+- Carrera Muñoz Benny
+- Ccompi Guerrero Williams
+- Delgado Lorino Sebastian
+- Leon Cabanillas Sebastian
+- Ruiz Montes Rubén
+- **📅 Ciclo:** 2024-2
+- **📖 Descripción:** Página web para Promcoser que permita registrar y gestionar personal, maquinaria y clientes, así como digitalizar el Parte Diario para su llenado y almacenamiento en línea.
 - **🎯 Objetivos:**
-  1. [Primer objetivo.]
-  2. [Segundo objetivo.]
-- **🛠️ Tecnologías utilizadas:** [Lista de tecnologías, frameworks, lenguajes, etc.]
-- **🔗 Enlace al repositorio o demo:** [Enlace si está disponible]
+1.Desarrollar una plataforma web que facilite la gestión integral de personal, maquinaria y clientes, incorporando la digitalización del 'Parte Diario' para optimizar procesos internos.
+2.Implementar una sección de reportes dentro de la plataforma, que permita realizar análisis eficientes mediante herramientas intuitivas, garantizando la seguridad de los datos mediante protocolos avanzados de autenticación y encriptación.
+3.Optimizar la gestión operativa de PROMCOSER, generando ahorros de tiempo, minimizando errores y mejorando el acceso a información clave para la toma de decisiones.
+- **🛠️ Tecnologías utilizadas:**
+-Visual Studio (Backend): Desarrollo de la lógica del servidor, APIs y conexión a la base de datos.
+-Visual Studio Code (Frontend): Creación de la interfaz de usuario con Quasar Framework.
+-SQL Server: Diseño y gestión de la base de datos estructurada.
+-Git y GitHub: Control de versiones y colaboración en el código.
+-Google Drive: Almacenamiento y colaboración en documentos y archivos del proyecto.
+-Google Meet: Comunicación para reuniones grupales y asignación de tareas.
+-WhatsApp: Comunicación ágil para coordinación diaria y recordatorios.
+- **🔗 Enlace al repositorio o demo:**
+- Api: https://github.com/WilliamsCG57/PromcoserApp.git
+- Front: https://github.com/JoawhiWebMovil/PromcoserWebFront.git
 - **🖼️ Imagen representativa:**  
   ![Descripción breve de la imagen](ruta/de/la/imagen.jpg)
 
----
-
-> **💡 Nota:** Agregar tantas secciones como proyectos existan. Utiliza numeración consecutiva.
-
----
-
-## 🔧 **Instrucciones para Contribuir**
-
-1. 🔀 Realiza un fork del repositorio.
-2. 🌱 Crea un branch para tu modificación (`git checkout -b feature/nombre-feature`).
-3. 🖋️ Haz tus cambios y realiza un commit (`git commit -m "Descripción del cambio"`).
-4. 🚀 Haz un push a tu branch (`git push origin feature/nombre-feature`).
-5. 📬 Abre un Pull Request en el repositorio principal.
 
 ---
 
