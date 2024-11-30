@@ -1,4 +1,4 @@
-# 🎓 **Proyectos Presentados - Desarrollo Web**
+![image](https://github.com/user-attachments/assets/e0c65dba-14f9-4055-97a4-ea28a935440f)# 🎓 **Proyectos Presentados - Desarrollo Web**
 
 Bienvenidos al repositorio de proyectos desarrollados por los estudiantes del curso **Desarrollo Web**. Aquí se documentan los trabajos presentados, sus descripciones, objetivos, y enlaces relevantes, además de incluir una imagen representativa de cada proyecto.
 
@@ -54,7 +54,6 @@ Cada proyecto incluye:
 - API: https://github.com/GersonEvangelista/ProyectoPROMCOSERWeb.git
 - FRONT: https://github.com/GersonEvangelista/ProyectoPROMCOSERWeb_Frontend.git
 - **🖼️ Imagen representativa:**  
-![Loguin PROMCOSER](login_Grupo3.jpeg)
 
 ---
 
@@ -84,7 +83,8 @@ Cada proyecto incluye:
 - Api: https://github.com/WilliamsCG57/PromcoserApp.git
 - Front: https://github.com/JoawhiWebMovil/PromcoserWebFront.git
 - **🖼️ Imagen representativa:**  
-  ![Uploading image.png…]()
+  ![grupo1](https://github.com/user-attachments/assets/bca71bc0-dc12-4311-a79f-648b863e2505)
+
 
 
 
