@@ -84,7 +84,8 @@ Cada proyecto incluye:
 - Api: https://github.com/WilliamsCG57/PromcoserApp.git
 - Front: https://github.com/JoawhiWebMovil/PromcoserWebFront.git
 - **🖼️ Imagen representativa:**  
-  ![Descripción breve de la imagen](ruta/de/la/imagen.jpg)
+  ![Uploading image.png…]()
+
 
 
 ---
