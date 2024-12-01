@@ -86,6 +86,34 @@ Cada proyecto incluye:
   ![image](https://github.com/user-attachments/assets/e0c65dba-14f9-4055-97a4-ea28a935440f)
 
 
+### **📌 [3. DPA GRUPO 1]**
+- **👥 Autor(es):**
+- CANO DIAZ RUBEN ANDRES
+- CUTIMANCO HUACO WILLIAM VICENTE
+- DELGADO DIAZ CESAR RUBEN
+- RODRIGUEZ ZELADA FERNANDO ANDRE
+- ROLDAN VILLANUEVA DIEGO OSMAR
+- **📅 Ciclo:** 2024-2
+- **📖 Descripción:** Página web para GreenCity, donde se podrán registrar reportes acerca de problemas delictivos o ambientales ocurridos en la ciudad. Asimismo, se podrán elaborar informes relacionados al reporte, estos informes podrán ser exportados en formato PDF o Excel.
+- **🎯 Objetivos:**
+1.Desarrollar una plataforma web que facilite al usuario realizar el reporte de los problemas que se han sucedido en Greencity.
+2.Mostrar un listado de los reportes generados por los usuarios.
+3.Permitir al usuario administrador pueda generar informes con base a los reportes generados, esta tabla de informes puede ser exportada en formato "xlsx" o "pdf".
+- **🛠️ Tecnologías utilizadas:**
+-Visual Studio (Backend): Desarrollo de la lógica del servidor, APIs y conexión a la base de datos.
+-Visual Studio Code (Frontend): Creación de la interfaz de usuario con Quasar Framework.
+-SQL Server: Diseño y gestión de la base de datos estructurada.
+-Git y GitHub: Control de versiones y colaboración en el código.
+-Google Drive: Almacenamiento y colaboración en documentos y archivos del proyecto.
+-Google Meet: Comunicación para reuniones grupales y asignación de tareas.
+-WhatsApp: Comunicación ágil para coordinación diaria y recordatorios.
+- **🔗 Enlace al repositorio o demo:**
+- API:https://github.com/wcutimanco/DPA.GreenCity.git 
+- Front: https://github.com/Farz1093/GreenCity-Fe.git
+- **🖼️ Imagen representativa:**  
+  ![image](https://github.com/user-attachments/assets/f07697ec-c8d8-427a-8576-be8e9b1f3f76)
+
+
 
 
 ---
