@@ -88,12 +88,12 @@ Cada proyecto incluye:
 
 ### **📌 [3. DPA GRUPO 1]**
 - **👥 Autor(es):**
-- CANO DIAZ RUBEN ANDRES
-- CUTIMANCO HUACO WILLIAM VICENTE
-- DELGADO DIAZ CESAR RUBEN
-- RODRIGUEZ ZELADA FERNANDO ANDRE
-- ROLDAN VILLANUEVA DIEGO OSMAR
-- **📅 Ciclo:** 2024-2
+- Cano Diaz, Ruben Andres
+- Cutimanco Huaco, William Vicente
+- Delgado Diaz, Cesar Ruben
+- Rodriguez Zelada, Fernando Andre
+- Roldan Villanueva, Diego Osmar
+- **📅 Ciclo:** 2024-2 (DPA)
 - **📖 Descripción:** Página web para GreenCity, donde se podrán registrar reportes acerca de problemas delictivos o ambientales ocurridos en la ciudad. Asimismo, se podrán elaborar informes relacionados al reporte, estos informes podrán ser exportados en formato PDF o Excel.
 - **🎯 Objetivos:**
 1.Desarrollar una plataforma web que facilite al usuario realizar el reporte de los problemas que se han sucedido en Greencity.
