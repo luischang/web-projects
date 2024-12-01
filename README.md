@@ -62,7 +62,7 @@ Cada proyecto incluye:
 - Cardenas Gomez Jose
 - Carrera Muñoz Benny
 - Ccompi Guerrero Williams
-- Delgado Lorino Sebastian
+- Delgado Lorino Joaquín
 - Leon Cabanillas Sebastian
 - Ruiz Montes Rubén
 - **📅 Ciclo:** 2024-2
