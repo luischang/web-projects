@@ -115,6 +115,29 @@ Cada proyecto incluye:
   ![image](https://github.com/user-attachments/assets/f07697ec-c8d8-427a-8576-be8e9b1f3f76)
 
 
+### **📌 [3. DPA GRUPO 2]**
+- **👥 Autor(es):**
+- Cano Diaz, Ruben Andres
+- Héctor Miguel Navarro Montano
+- Andrea Lizeth Paniagua Escobar
+- **📅 Ciclo:** 2024-2 (DPA)
+- **📖 Descripción:** Página web para GreenCity, donde se podrán registrar reportes acerca de problemas delictivos o ambientales ocurridos en la ciudad. Asimismo, se podrán elaborar informes relacionados al reporte, estos informes podrán ser exportados en formato PDF o Excel.
+- **🎯 Objetivos:**
+1.Desarrollar una plataforma web que facilite al usuario realizar el reporte de los problemas que se han sucedido en Greencity.
+2.Mostrar un listado de los reportes generados por los usuarios.
+- **🛠️ Tecnologías utilizadas:**
+-Visual Studio (Backend): Desarrollo de la lógica del servidor, APIs y conexión a la base de datos.
+-Visual Studio Code (Frontend): Creación de la interfaz de usuario con Quasar Framework.
+-SQL Server: Diseño y gestión de la base de datos estructurada.
+-Git y GitHub: Control de versiones y colaboración en el código.
+-Google Drive: Almacenamiento y colaboración en documentos y archivos del proyecto.
+-Google Meet: Comunicación para reuniones grupales y asignación de tareas.
+-WhatsApp: Comunicación ágil para coordinación diaria y recordatorios.
+- **🔗 Enlace al repositorio o demo:**
+- API:https://github.com/migueln15/green-city-be.git
+- Front:https://github.com/andreapani01/green-city-fe.git
+- **🖼️ Imagen representativa:**  
+  ![image](https://github.com/andreapani01/green-city-fe/blob/main/src/assets/GreenCity.png)
 
 
 ---
