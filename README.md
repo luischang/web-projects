@@ -98,7 +98,7 @@ Cada proyecto incluye:
 - **🎯 Objetivos:**
 1.Desarrollar una plataforma web que facilite al usuario realizar el reporte de los problemas que se han sucedido en Greencity.
 2.Mostrar un listado de los reportes generados por los usuarios.
-3.Permitir al usuario administrador pueda generar informes con base a los reportes generados, esta tabla de informes puede ser exportada en formato "xlsx" o "pdf".
+3.Permitir al usuario administrador pueda generar informes con base a los reportes generados, esta tabla de informes puede ser exportada en formato ".xlsx" o ".pdf".
 - **🛠️ Tecnologías utilizadas:**
 -Visual Studio (Backend): Desarrollo de la lógica del servidor, APIs y conexión a la base de datos.
 -Visual Studio Code (Frontend): Creación de la interfaz de usuario con Quasar Framework.
