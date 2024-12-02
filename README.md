@@ -59,7 +59,7 @@ Cada proyecto incluye:
 
 ### **📌 [2. GRUPO 1]**
 - **👥 Autor(es):**
-- Cardenas Gomez Jose
+[Cardenas Gomez Jose]
 - Carrera Muñoz Benny
 - Ccompi Guerrero Williams
 - Delgado Lorino Joaquín
@@ -68,20 +68,20 @@ Cada proyecto incluye:
 - **📅 Ciclo:** 2024-2
 - **📖 Descripción:** Página web para Promcoser que permita registrar y gestionar personal, maquinaria y clientes, así como digitalizar el Parte Diario para su llenado y almacenamiento en línea.
 - **🎯 Objetivos:**
-1.Desarrollar una plataforma web que facilite la gestión integral de personal, maquinaria y clientes, incorporando la digitalización del 'Parte Diario' para optimizar procesos internos.
-2.Implementar una sección de reportes dentro de la plataforma, que permita realizar análisis eficientes mediante herramientas intuitivas, garantizando la seguridad de los datos mediante protocolos avanzados de autenticación y encriptación.
-3.Optimizar la gestión operativa de PROMCOSER, generando ahorros de tiempo, minimizando errores y mejorando el acceso a información clave para la toma de decisiones.
+1. [Desarrollar una plataforma web que facilite la gestión integral de personal, maquinaria y clientes, incorporando la digitalización del 'Parte Diario' para optimizar procesos internos.]
+2. [Implementar una sección de reportes dentro de la plataforma, que permita realizar análisis eficientes mediante herramientas intuitivas, garantizando la seguridad de los datos mediante protocolos avanzados de autenticación y encriptación.]
+3. [Optimizar la gestión operativa de PROMCOSER, generando ahorros de tiempo, minimizando errores y mejorando el acceso a información clave para la toma de decisiones.]
 - **🛠️ Tecnologías utilizadas:**
--Visual Studio (Backend): Desarrollo de la lógica del servidor, APIs y conexión a la base de datos.
--Visual Studio Code (Frontend): Creación de la interfaz de usuario con Quasar Framework.
--SQL Server: Diseño y gestión de la base de datos estructurada.
--Git y GitHub: Control de versiones y colaboración en el código.
--Google Drive: Almacenamiento y colaboración en documentos y archivos del proyecto.
--Google Meet: Comunicación para reuniones grupales y asignación de tareas.
--WhatsApp: Comunicación ágil para coordinación diaria y recordatorios.
+1. [Visual Studio (Backend): Desarrollo de la lógica del servidor, APIs y conexión a la base de datos.]
+2. [Visual Studio Code (Frontend): Creación de la interfaz de usuario con Quasar Framework.]
+3. [SQL Server: Diseño y gestión de la base de datos estructurada.]
+4. [Git y GitHub: Control de versiones y colaboración en el código.]
+5. [Google Drive: Almacenamiento y colaboración en documentos y archivos del proyecto.]
+6. [Google Meet: Comunicación para reuniones grupales y asignación de tareas.]
+7. [WhatsApp: Comunicación ágil para coordinación diaria y recordatorios.]
 - **🔗 Enlace al repositorio o demo:**
-- Api: https://github.com/WilliamsCG57/PromcoserApp.git
-- Front: https://github.com/JoawhiWebMovil/PromcoserWebFront.git
+1. [Api: https://github.com/WilliamsCG57/PromcoserApp.git]
+2. [Front: https://github.com/JoawhiWebMovil/PromcoserWebFront.git]
 - **🖼️ Imagen representativa:**  
   ![image](https://github.com/user-attachments/assets/e0c65dba-14f9-4055-97a4-ea28a935440f)
 
