@@ -140,6 +140,32 @@ Cada proyecto incluye:
   ![image](https://github.com/andreapani01/green-city-fe/blob/main/src/assets/GreenCity.png)
 
 
+
+### **📌 [3. Pregrado GRUPO 2]**
+- **👥 Autor(es):**
+- Avila Agurto, Sandro Fabrizio Enrique
+- Garay Santos, Jefferson David
+- Medina Tello, Mijhail Jaffet
+- Mantilla Huaman, Joe Jose
+- **📅 Ciclo:** 2025-1 (Pregrado)
+- **📖 Descripción:** Página web para el Vicerrectorado de Investigacion, donde se podran registrar publicaciones de investigaciones de profesor, para que alumnos y mas puedan tener vista a estos. Asimismo, se podrán elaborar informes relacionados al reporte de las propuestas hechas por los profesores, estos informes podrán ser exportados en formato Excel.
+- **🎯 Objetivos:**
+1.Desarrollar una plataforma web que facilite al profesor realizar el propuestas y mandar al administrador
+2.Generacion de reportes de las propuestas que se tienen para analizar si acepta el tema de investigacion.
+- **🛠️ Tecnologías utilizadas:**
+-Visual Studio (Backend): Desarrollo de la lógica del servidor, APIs y conexión a la base de datos.
+-Visual Studio Code (Frontend): Creación de la interfaz de usuario con Quasar Framework.
+-SQL Server: Diseño y gestión de la base de datos estructurada.
+-Git y GitHub: Control de versiones y colaboración en el código.
+-Google Drive: Almacenamiento y colaboración en documentos y archivos del proyecto.
+-Google Meet y Discord: Comunicación para reuniones grupales y asignación de tareas.
+-WhatsApp: Comunicación ágil para coordinación diaria y recordatorios.
+- **🔗 Enlace al repositorio o demo:**
+- API:https://github.com/JeffersonDavidGaraySantos/UESAN_INTRANET_FINAL_DESARROLLO_WEB.git
+- Frontend:https://github.com/J03-M4NT/UESAN.INVES_Frontend.git
+- **🖼️ Imagen representativa:**  
+  ![image](https://github.com/luischang/web-projects/issues/2#issue-3203817720)
+
 ---
 
 ## 📜 **Licencia**
