@@ -166,6 +166,46 @@ Cada proyecto incluye:
 - **🖼️ Imagen representativa:**  
   ![image](https://github.com/user-attachments/assets/744e15e1-2205-4a26-bdc0-5bbca548360f)
 
+
+
+### 📌 **[ Pregrado GRUPO 1]** 
+👥 Autor(es): • GUIVAR FONSECA, Deivis Maycol • CASTRO MARQUINA, Jaime Sebastián • DEL CASTILLO MAMANI, José Daniel • FASABI RIVERA, Fabrissio Keith
+
+📅 Ciclo: 2025-1 (Pregrado)
+
+📖 Descripción:
+Desarrollo de un prototipo de aplicación web para el Vicerrectorado de Investigación (VDI) que centraliza y facilita el acceso a servicios académicos y de gestión de investigación. Permitirá:
+-Consulta de ISSN y listas de revistas recomendadas.
+-Chat interactivo para resolver dudas sobre políticas y procedimientos.
+-Importación y gestión de datos de profesores habilitados desde Excel o registro manual.
+-Generación de reportes exportables en formato Excel.
+
+🎯 Objetivos:
+
+-Diseñar e implementar una interfaz intuitiva que reúna todos los servicios del VDI.
+-Desarrollar módulos de consulta de revistas científicas (ISSN y lista cerrada).
+-Integrar un chatbot para atención de consultas sobre investigación.
+-Crear la funcionalidad de importación de datos de profesores y vista previa de registros.
+-Generar reportes personalizables y exportables en Excel para análisis administrativo.
+
+🛠️ Tecnologías utilizadas:
+
+-Visual Studio 2022 (Backend): ASP.NET Core Web API para lógica de negocio y gestión de datos.
+-VS Code (Frontend): Desarrollo de UI con Vue.js y Quasar Framework.
+-SQL Server: Diseño y administración de la base de datos relacional.
+-GitHub: Control de versiones y gestión colaborativa del código.
+-Slack: Comunicación y coordinación del equipo de trabajo.
+
+🔗 Repositorios:
+
+API: https://github.com/DeivisGFUwU/UESAN.VDI.git
+Frontend: https://github.com/DeivisGFUwU/UESAN.VDI.FRONTEND.git
+
+- **🖼️ Imagen representativa:**  
+  ![image](![Uploading Imagen de WhatsApp 2025-07-04 a las 18.19.46_6adcebaf.jpg…]()
+)
+)
+
 ---
 
 ## 📜 **Licencia**
