@@ -209,7 +209,7 @@ Desarrollo de un prototipo de aplicación web para el Vicerrectorado de Investig
 ### **📌 [3. Pregrado GRUPO 3]**
 👥 Autor(es):
 
--Quiliche Castro, Andrés (Líder del Proyecto) - @23-Andres-QC
+-Quiliche Chavez, Andrés (Líder del Proyecto) - @23-Andres-QC
 -Vergara Morales, Eduardo (Frontend Lead) - @eduvm107
 -Perales Ramos, Alex (UI/UX Developer) - @Alexper7
 -Salazar Cruz, Jehu (Developer) - @Jehu-Salazar
