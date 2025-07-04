@@ -202,9 +202,7 @@ API: https://github.com/DeivisGFUwU/UESAN.VDI.git
 Frontend: https://github.com/DeivisGFUwU/UESAN.VDI.FRONTEND.git
 
 - **🖼️ Imagen representativa:**  
-  ![image](![Uploading Imagen de WhatsApp 2025-07-04 a las 18.19.46_6adcebaf.jpg…]()
-)
-)
+  ![image](https://github.com/JaimeCJ20/imagen/blob/main/Imagen%20de%20WhatsApp%202025-07-04%20a%20las%2018.17.33_6b27114f.jpg?raw=true)
 
 ---
 
