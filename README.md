@@ -164,7 +164,7 @@ Cada proyecto incluye:
 - API:https://github.com/JeffersonDavidGaraySantos/UESAN_INTRANET_FINAL_DESARROLLO_WEB.git
 - Frontend:https://github.com/J03-M4NT/UESAN.INVES_Frontend.git
 - **🖼️ Imagen representativa:**  
-  ![image](https://github.com/luischang/web-projects/issues/2#issue-3203817720)
+  ![image](https://github.com/user-attachments/assets/744e15e1-2205-4a26-bdc0-5bbca548360f)
 
 ---
 
