@@ -213,7 +213,7 @@ Desarrollo de un prototipo de aplicación web para el Vicerrectorado de Investig
 -Vergara Morales, Eduardo (Frontend Lead) - @eduvm107
 -Perales Ramos, Alex (UI/UX Developer) - @Alexper7
 -Salazar Cruz, Jehu (Developer) - @Jehu-Salazar
--Ramos Castillo, Glem (Backend Support) - @glemrc
+-Ramos Canchan, Glem (Backend Support) - @glemrc
 📅 Ciclo: 2025-1 (Desarrollo Web Avanzado)
 
 📖 Descripción: Sistema web integral para la gestión y visualización de datos académicos del Vicerrectorado de Investigación. La plataforma permite el registro, importación y gestión de revistas académicas, listas cerradas de profesores, y generación de reportes estadísticos. Incluye un sistema de autenticación robusto, ChatBot interactivo con FAQ, y funcionalidades completas de importación/exportación de datos en múltiples formatos. El sistema está diseñado con una interfaz moderna y responsiva que se adapta a todos los dispositivos.
