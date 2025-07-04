@@ -175,31 +175,31 @@ Cada proyecto incluye:
 
 📖 Descripción:
 Desarrollo de un prototipo de aplicación web para el Vicerrectorado de Investigación (VDI) que centraliza y facilita el acceso a servicios académicos y de gestión de investigación. Permitirá:
--Consulta de ISSN y listas de revistas recomendadas.
--Chat interactivo para resolver dudas sobre políticas y procedimientos.
--Importación y gestión de datos de profesores habilitados desde Excel o registro manual.
--Generación de reportes exportables en formato Excel.
+- Consulta de ISSN y listas de revistas recomendadas.
+- Chat interactivo para resolver dudas sobre políticas y procedimientos.
+- Importación y gestión de datos de profesores habilitados desde Excel o registro manual.
+- Generación de reportes exportables en formato Excel.
 
 🎯 Objetivos:
 
--Diseñar e implementar una interfaz intuitiva que reúna todos los servicios del VDI.
--Desarrollar módulos de consulta de revistas científicas (ISSN y lista cerrada).
--Integrar un chatbot para atención de consultas sobre investigación.
--Crear la funcionalidad de importación de datos de profesores y vista previa de registros.
--Generar reportes personalizables y exportables en Excel para análisis administrativo.
+- Diseñar e implementar una interfaz intuitiva que reúna todos los servicios del VDI.
+- Desarrollar módulos de consulta de revistas científicas (ISSN y lista cerrada).
+- Integrar un chatbot para atención de consultas sobre investigación.
+- Crear la funcionalidad de importación de datos de profesores y vista previa de registros.
+- Generar reportes personalizables y exportables en Excel para análisis administrativo.
 
 🛠️ Tecnologías utilizadas:
 
--Visual Studio 2022 (Backend): ASP.NET Core Web API para lógica de negocio y gestión de datos.
--VS Code (Frontend): Desarrollo de UI con Vue.js y Quasar Framework.
--SQL Server: Diseño y administración de la base de datos relacional.
--GitHub: Control de versiones y gestión colaborativa del código.
--Slack: Comunicación y coordinación del equipo de trabajo.
+- Visual Studio 2022 (Backend): ASP.NET Core Web API para lógica de negocio y gestión de datos.
+- VS Code (Frontend): Desarrollo de UI con Vue.js y Quasar Framework.
+- SQL Server: Diseño y administración de la base de datos relacional.
+- GitHub: Control de versiones y gestión colaborativa del código.
+- Slack: Comunicación y coordinación del equipo de trabajo.
 
 🔗 Repositorios:
 
-API: https://github.com/DeivisGFUwU/UESAN.VDI.git
-Frontend: https://github.com/DeivisGFUwU/UESAN.VDI.FRONTEND.git
+- API: https://github.com/DeivisGFUwU/UESAN.VDI.git
+- Frontend: https://github.com/DeivisGFUwU/UESAN.VDI.FRONTEND.git
 
 - **🖼️ Imagen representativa:**  
   ![image](https://github.com/JaimeCJ20/imagen/blob/main/Imagen%20de%20WhatsApp%202025-07-04%20a%20las%2018.17.33_6b27114f.jpg?raw=true)
