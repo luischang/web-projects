@@ -28,6 +28,35 @@ Cada proyecto incluye:
 
 ## 📂 **Lista de Proyectos**
 
+### **📌 PAYFLOW GRUPO 1**
+- **👥 Autor(es):**
+- Benavides Bravo, Luis Miguel (17200955)
+- Chavez Leveroni, Gonzalo Miguel (21100627)
+- Hernandez Rucoba, Miguel Enrique (23100080)
+- Ticona Laura, Wilber David (23100198)
+- Zavala Chavez, Luzwin Bernabe (22101716)
+- **📅 Ciclo:** 2025-01
+- **📖 Descripción:** PayFlow es una plataforma web diseñada para gestionar fondos colaborativos de manera simple, segura y transparente. Permite que un grupo de usuarios realice aportes hacia un objetivo común —como un viaje de promoción, un evento o una causa colectiva— registrando sus depósitos mediante la carga de vouchers y visualizando en tiempo real el fondo acumulado.
+La plataforma proporciona un entorno centralizado donde los usuarios pueden consultar quiénes han contribuido, cuánto se ha recaudado y cómo se utiliza el dinero. Cuando se requiere hacer un retiro del fondo para algún gasto específico, como la compra de pasajes u otros insumos, la solicitud pasa por un flujo de aprobación que involucra al administrador del grupo, asegurando control, trazabilidad y transparencia en el uso de los recursos.
+- **🎯 Objetivos:**
+1. Desarrollar una plataforma web para la gestión colaborativa de fondos, permitiendo que distintos usuarios realicen aportes hacia un objetivo común (por ejemplo, un viaje de promoción), con funcionalidades que registren los depósitos mediante la carga de vouchers y actualicen automáticamente el fondo acumulado.
+2. Implementar una sección de reportes intuitivos y visuales, que permita monitorear en tiempo real los movimientos de ingresos y egresos, identificar a los usuarios que han realizado aportes, y brindar visibilidad clara del estado del fondo. Se garantizará la seguridad de la información mediante protocolos avanzados de autenticación y cifrado.
+3. Optimizar la trazabilidad y control de los retiros, estableciendo un flujo de aprobación (workflow) para solicitudes de uso del fondo, de manera que cada retiro (como la compra de pasajes u otros gastos planificados) sea gestionado con autorización del administrador, minimizando errores, mejorando el control interno y facilitando la toma de decisiones.
+4. - **🛠️ Tecnologías utilizadas:**
+-Visual Studio (Backend): Desarrollo de la lógica del servidor, APIs y conexión a la base de datos.
+-Visual Studio Code (Frontend): Creación de la interfaz de usuario con Quasar Framework.
+-SQL Server: Diseño y gestión de la base de datos estructurada.
+-Git y GitHub: Control de versiones y colaboración en el código.
+-OneDrive: Almacenamiento y colaboración en documentos y archivos del proyecto.
+-Microsoft Teams: Comunicación para reuniones grupales y asignación de tareas.
+-WhatsApp: Comunicación ágil para coordinación diaria y recordatorios.
+- **🔗 Enlace al repositorio o demo:**
+- Frontend: https://github.com/ESAN-DPA-Proyectos/FrontEnd.PayFlow.git
+- Backend: https://github.com/ESAN-DPA-Proyectos/Backend.PayFlow.git
+- **🖼️ Imagen representativa:**  
+ ![Payflow](https://github.com/user-attachments/assets/1ce0aa13-94ab-44f1-8f98-2c9811865f1a)
+
+
 ### **📌 PROMCOSER GRUPO 3**
 - **👥 Autor(es):**
 - Gerson Chancas Evangelista (21100940)
